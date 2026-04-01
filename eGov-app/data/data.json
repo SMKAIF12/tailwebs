@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Urban Digital Transformation",
+            "category": "Governance",
+            "price": 120,
+            "image": "http://localhost:3000/assets/dot-2025-5.jpg"
+        },
+        {
+            "id": 2,
+            "name": "DIGIT Quarterly Newsletter",
+            "category": "Media",
+            "price": 80,
+            "image": "http://localhost:3000/assets/DOT-September-Thumb.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Top Stories of Partnerships",
+            "category": "Impact",
+            "price": 100,
+            "image": "http://localhost:3000/assets/State-led-Thumb.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Public Health Report Analysis",
+            "category": "Health",
+            "price": 150,
+            "image": "http://localhost:3000/assets/dot-2025-5.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Water & Sanitation Insights",
+            "category": "Infrastructure",
+            "price": 95,
+            "image": "http://localhost:3000/assets/DOT-September-Thumb.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Smart City Dashboard System",
+            "category": "Governance",
+            "price": 200,
+            "image": "http://localhost:3000/assets/dot-2025-5.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Financial Inclusion Toolkit",
+            "category": "Finance",
+            "price": 130,
+            "image": "http://localhost:3000/assets/State-led-Thumb.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Education Transformation Report",
+            "category": "Education",
+            "price": 110,
+            "image": "http://localhost:3000/assets/dot-2025-5.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Climate Action Strategies",
+            "category": "Environment",
+            "price": 140,
+            "image": "http://localhost:3000/assets/DOT-September-Thumb.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Digital Agriculture Guide",
+            "category": "Agriculture",
+            "price": 90,
+            "image": "http://localhost:3000/assets/State-led-Thumb.jpg"
+        }
+    ]
+}
